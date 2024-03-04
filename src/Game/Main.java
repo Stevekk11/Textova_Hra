@@ -6,7 +6,7 @@ public class Main {
     // The main method
 public static void main (String [] args) {
   // Create a WorldLoader object with the file name of the csv file
-  WorldLoader loader = new WorldLoader("src/rooms.csv");
+  WorldLoader loader = new WorldLoader("src/Game/rooms.csv");
 
   // Create a World object with the loader
   World world = new World(loader);
