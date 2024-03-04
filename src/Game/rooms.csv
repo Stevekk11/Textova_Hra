@@ -1,0 +1,9 @@
+1,Cave,E,Stone
+2,Tomb,E,Apple
+3,Cellar,S,Sword
+4,Forest,S,Enemy,Meal
+5,Meadow,W
+6,Suburbs,W,Garbage,Cigarette
+7,City,E,Meal,Sword
+8,Center,E,Enemy
+9,Home,The End
